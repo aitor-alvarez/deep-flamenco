@@ -3,9 +3,9 @@ Deep learning architectures for flamenco singer identification using motivic pat
 
 ## Requirements
 
-Pytorch
-Torchaudio
-Numpy
+1. Pytorch
+2. Torchaudio
+3. Numpy
 
 Steps to run the models:
 
