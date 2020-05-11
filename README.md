@@ -15,4 +15,4 @@ Steps to run the models:
 
 ### Data
 
-Motivi patterns data can be found in this repository: https://github.com/aitor-mir/flamenco-motifs 
+Motivic patterns extracted from Corpus COFLA can be found in this repository: https://github.com/aitor-mir/flamenco-motifs 
