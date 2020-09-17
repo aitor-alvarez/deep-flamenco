@@ -16,3 +16,16 @@ Steps to run the models:
 ### Data
 
 Motivic patterns extracted from Corpus COFLA can be found in this repository: https://github.com/aitor-mir/flamenco-motifs 
+
+###Research
+
+If you intend to use this software for research, please cite the following article:
+
+```
+@article{alvarez2020singer,
+  title={Singer Identification Using Convolutional Acoustic Motif Embeddings},
+  author={Alvarez, Aitor Arronte and Gomez-Martin, Francisco},
+  journal={arXiv preprint arXiv:2008.00198},
+  year={2020}
+}
+```
