@@ -17,7 +17,7 @@ Steps to run the models:
 
 Motivic patterns extracted from Corpus COFLA can be found in this repository: https://github.com/aitor-mir/flamenco-motifs 
 
-###Research
+### Research
 
 If you intend to use this software for research, please cite the following article:
 
