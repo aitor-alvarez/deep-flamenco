@@ -22,10 +22,13 @@ Motivic patterns extracted from Corpus COFLA can be found in this repository: ht
 If you intend to use this software for research, please cite the following article:
 
 ```
-@article{alvarez2020singer,
-  title={Singer Identification Using Convolutional Acoustic Motif Embeddings},
-  author={Alvarez, Aitor Arronte and Gomez-Martin, Francisco},
-  journal={arXiv preprint arXiv:2008.00198},
-  year={2020}
+@inproceedings{Alvarez2020,
+  author={Aitor Arronte Alvarez and Elsayed Sabry Abdelaal Issa},
+  title={{Learning Intonation Pattern Embeddings for Arabic Dialect Identification}},
+  year=2020,
+  booktitle={Proc. Interspeech 2020},
+  pages={472--476},
+  doi={10.21437/Interspeech.2020-2906},
+  url={http://dx.doi.org/10.21437/Interspeech.2020-2906}
 }
 ```
