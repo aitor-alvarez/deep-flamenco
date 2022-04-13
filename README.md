@@ -12,7 +12,8 @@ Steps to run the models:
 1. Select the model in the file main.py
 2. Adjust in the dataset the folder of your data
 3. Run the following command:
-```python main.py
+```
+python main.py
 ```
 ### Data
 
