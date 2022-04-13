@@ -11,8 +11,9 @@ Steps to run the models:
 
 1. Select the model in the file main.py
 2. Adjust in the dataset the folder of your data
-3. python main.py
-
+3. Run the following command:
+```python main.py
+```
 ### Data
 
 Motivic patterns extracted from Corpus COFLA can be found in this repository: https://github.com/aitor-mir/flamenco-motifs 
