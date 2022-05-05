@@ -21,9 +21,18 @@ Motivic patterns extracted from Corpus COFLA can be found in this repository: ht
 
 ### Research
 
-If you intend to use this software for research, please cite the following article:
+If you intend to use this software for research, please cite the following articles:
 
 ```
+@article{alvarez2021motivic,
+  title={Motivic Pattern Classification of Music Audio Signals Combining Residual and LSTM Networks.},
+  author={Alvarez, Aitor Arronte and G{\'o}mez, Francisco},
+  journal={International Journal of Interactive Multimedia \& Artificial Intelligence},
+  volume={6},
+  number={6},
+  year={2021}
+}
+
 @article{arronte2020singer,
   title={Singer Identification Using Convolutional Acoustic Motif Embeddings},
   author={Arronte Alvarez, Aitor and Gomez-Martin, Francisco},
